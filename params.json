@@ -1,0 +1,6 @@
+{
+  "name": "Documents to ANKA-CS",
+  "tagline": "ANKA control system related documents.",
+  "body": "Accompanying document(s) to ANKA-CS published projects.\r\n\r\n* [EPICS Application and Alarm Server Manual (PDF)](https://github.com/ANKA-CS/Documents/blob/master/MACHINE-ANKAAlarmendEPICSApplicationServer.pdf)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
